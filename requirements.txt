@@ -1,0 +1,5 @@
+aiogram==3.31.0
+aiosqlite==0.22.1
+orjson==3.13.0
+python-dotenv==1.2.2
+loguru==0.8.0
